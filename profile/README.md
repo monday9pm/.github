@@ -1,17 +1,11 @@
 # Monday 9PM
-__Monday9pm__ 은 한국의 다양한 분야에서 활동하고 있는 개발자들이 모여 운영하는 커뮤니티입니다.
 
-주로 Slack, GitHub, Notion 등의 온라인 도구를 활용하여 다양한 프로젝트를 진행하며, 기술적인 지식 공유와 협업이 활발히 이루어지고 있습니다.
+**Monday9pm** 은 다양한 분야에서 활동하고 있는 개발자들이 모여 기술과 경험을 공유하고 네트워크 하는 모임입니다.
 
-또한, 행사 및 세미나를 주최하여 개발자들이 함께 성장할 수 있는 기회를 제공하고 있습니다.
+월요일 저녁 9시 마다 정기적으로 작석해둔 아티클을 바탕을 온라인 세미나를 진행 합니다.
 
-이 외에도 Monday9pm은 오픈소스 프로젝트와 스터디 그룹을 운영하여 누구든지 참여하여 기술적인 역량을 향상시킬 수 있는 환경을 제공합니다.
+[운영 정책](https://github.com/monday9pm/.github/blob/main/operation/README.md) 보러가기
 
----
-__Monday9pm__ is a community of developers active in various fields in Korea.
+## 구성원 소개
 
-We mainly use online tools such as Slack, GitHub, and Notion to collaborate on diverse projects and actively share technical knowledge. 
-
-In addition, we organize events and seminars to provide opportunities for developers to grow together. 
-
-Furthermore, Monday9pm operates open-source projects and study groups, providing an environment for anyone to enhance their technical skills.
+- [박준서님](https://github.com/monday9pm/.github/blob/main/profile/members/JunseoPark.md)

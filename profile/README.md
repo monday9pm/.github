@@ -4,8 +4,9 @@
 
 월요일 저녁 9시 마다 정기적으로 작석해둔 아티클을 바탕을 온라인 세미나를 진행 합니다.
 
-[운영 정책](https://github.com/monday9pm/.github/blob/main/operation/README.md) 보러가기
-
 ## 구성원 소개
 
 - [박준서님](https://github.com/monday9pm/.github/blob/main/profile/members/JunseoPark.md)
+
+## 운영 정책
+- [운영 정책](https://github.com/monday9pm/.github/blob/main/operation/README.md)
